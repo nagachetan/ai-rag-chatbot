@@ -1,0 +1,8 @@
+Flask
+slack_bolt
+requests
+python-dotenv
+urllib3<2.0  # Avoid OpenSSL compatibility issues
+psycopg2-binary
+openai
+structlog
